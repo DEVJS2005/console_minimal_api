@@ -1,0 +1,15 @@
+J:\Projetos\console_minimal_api\console_minimal_api\bin\Debug\net8.0\console_minimal_api.exe
+J:\Projetos\console_minimal_api\console_minimal_api\bin\Debug\net8.0\console_minimal_api.deps.json
+J:\Projetos\console_minimal_api\console_minimal_api\bin\Debug\net8.0\console_minimal_api.runtimeconfig.json
+J:\Projetos\console_minimal_api\console_minimal_api\bin\Debug\net8.0\console_minimal_api.dll
+J:\Projetos\console_minimal_api\console_minimal_api\bin\Debug\net8.0\console_minimal_api.pdb
+J:\Projetos\console_minimal_api\console_minimal_api\obj\Debug\net8.0\console_minimal_api.GeneratedMSBuildEditorConfig.editorconfig
+J:\Projetos\console_minimal_api\console_minimal_api\obj\Debug\net8.0\console_minimal_api.AssemblyInfoInputs.cache
+J:\Projetos\console_minimal_api\console_minimal_api\obj\Debug\net8.0\console_minimal_api.AssemblyInfo.cs
+J:\Projetos\console_minimal_api\console_minimal_api\obj\Debug\net8.0\console_minimal_api.csproj.CoreCompileInputs.cache
+J:\Projetos\console_minimal_api\console_minimal_api\obj\Debug\net8.0\console_minimal_api.sourcelink.json
+J:\Projetos\console_minimal_api\console_minimal_api\obj\Debug\net8.0\console_minimal_api.dll
+J:\Projetos\console_minimal_api\console_minimal_api\obj\Debug\net8.0\refint\console_minimal_api.dll
+J:\Projetos\console_minimal_api\console_minimal_api\obj\Debug\net8.0\console_minimal_api.pdb
+J:\Projetos\console_minimal_api\console_minimal_api\obj\Debug\net8.0\console_minimal_api.genruntimeconfig.cache
+J:\Projetos\console_minimal_api\console_minimal_api\obj\Debug\net8.0\ref\console_minimal_api.dll

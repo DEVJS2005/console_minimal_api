@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\Projetos\\console_minimal_api\\console_minimal_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{195F2684-DBEA-48EF-B21D-52BEE81FD253}|console_minimal_api.csproj|j:\\projetos\\console_minimal_api\\console_minimal_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195F2684-DBEA-48EF-B21D-52BEE81FD253}|console_minimal_api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\Projetos\\console_minimal_api\\console_minimal_api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "J:\\Projetos\\console_minimal_api\\console_minimal_api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:26:42.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
